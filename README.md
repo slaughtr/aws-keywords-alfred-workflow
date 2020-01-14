@@ -7,7 +7,9 @@ Alfred workflow to open my commonly used services/their documentation
 PRs welcome for more services!
 
 > Note: some of these may not work/may be mislisted, this is from some notes I restored.
+
 `keyword - console - SDK docs`
+
 lambda = lambda > Lambda
  
 dynamo = dynamodb > DynamoDB 
